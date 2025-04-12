@@ -39,7 +39,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_OpenMRS Electro
     '2', true)
 
 WebUI.setText(findTestObject('Object Repository/Page_OpenMRS Electronic Medical Record/input_(required)_birthdateYear'), 
-    '1997')
+    '1998')
 
 WebUI.click(findTestObject('Object Repository/Page_OpenMRS Electronic Medical Record/span_Address'))
 
