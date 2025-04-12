@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Phone Number</name>
+   <tag></tag>
+   <elementGuidId>216e80b9-6019-41e6-936c-86e81c9c85a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='formBreadcrumb']/li[2]/ul/li[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#formBreadcrumb >> internal:text=&quot;Phone Number&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cf660021-5be3-4a9e-87de-36f3ab232d3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phone Number</value>
+      <webElementGuid>e03b7725-8be0-4ce2-83a6-66cf0dbf5e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formBreadcrumb&quot;)/li[@class=&quot;doing&quot;]/ul[1]/li[@class=&quot;question-legend&quot;]/span[1]</value>
+      <webElementGuid>8e547340-9183-4480-9116-a024b9436482</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='formBreadcrumb']/li[2]/ul/li[2]/span</value>
+      <webElementGuid>5d5f133b-00a7-43ea-8e31-2b760afb6a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/following::span[1]</value>
+      <webElementGuid>504eff29-0f91-433a-9c38-49b610f12c30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Info'])[1]/following::span[2]</value>
+      <webElementGuid>42b28b08-4e0f-478c-8d0f-7f5a3d7417cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relationships'])[1]/preceding::span[1]</value>
+      <webElementGuid>82b135fc-b52d-4ba2-a22a-a65b18ae4ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relatives'])[1]/preceding::span[2]</value>
+      <webElementGuid>d2d25029-8cbd-442b-9edd-f1649d17009a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Phone Number']/parent::*</value>
+      <webElementGuid>a09eaf4b-9282-484c-be45-95aa8e4996c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[2]/span</value>
+      <webElementGuid>941ee699-4277-4bd1-884e-dcd6aee41e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Phone Number' or . = 'Phone Number')]</value>
+      <webElementGuid>10d3eb7e-6e0c-4f61-9cef-236f9f691e94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
