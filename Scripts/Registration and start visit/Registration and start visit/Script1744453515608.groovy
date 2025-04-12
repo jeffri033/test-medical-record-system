@@ -43,7 +43,7 @@ WebUI.setText(findTestObject('Object Repository/Page_OpenMRS Electronic Medical 
 
 WebUI.click(findTestObject('Object Repository/Page_OpenMRS Electronic Medical Record/span_Address'))
 
-WebUI.setText(findTestObject('Object Repository/Page_OpenMRS Electronic Medical Record/input_Address_address1'), 'Jl. Melati No 12')
+WebUI.setText(findTestObject('Object Repository/Page_OpenMRS Electronic Medical Record/input_Address_address1'), 'Jl. Melati No 22')
 
 WebUI.setText(findTestObject('Object Repository/Page_OpenMRS Electronic Medical Record/input_CityVillage_cityVillage'), 
     'Bandung')
@@ -79,6 +79,4 @@ WebUI.click(findTestObject('Object Repository/Page_OpenMRS Electronic Medical Re
 WebUI.click(findTestObject('Object Repository/Page_OpenMRS Electronic Medical Record/div_Start Visit'))
 
 WebUI.click(findTestObject('Object Repository/Page_OpenMRS Electronic Medical Record/button_Confirm'))
-
-WebUI.closeBrowser()
 
